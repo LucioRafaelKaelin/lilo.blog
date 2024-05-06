@@ -1,7 +1,7 @@
 +++
 headless = true
 icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
+logo = "/media/room-1-.png"
 image = "/img/default-image.jpg"
 color = "#5a4ae3"
 +++
