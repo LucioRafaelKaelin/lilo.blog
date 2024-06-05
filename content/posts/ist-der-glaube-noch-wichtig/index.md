@@ -11,8 +11,8 @@ description = "Einige Religionen gibt es schon seit tausenden von Jahren, und ü
 
 Wie der Glaube den Menschen beeinflusst, und wieso er noch wichtig ist
 
-![Abbildung 1: Kirche Wohlen bei Bern https://www.todesanzeigenportal.ch/friedhof/Wohlen/Bern/](reportage_bild.jpg)
+![Abbildung 1: Kirche Wohlen bei Bern https://www.todesanzeigenportal.ch/friedhof/Wohlen/Bern/](reportage_bild-kopie.jpg)
 
-##### Wofür Glauben? 
+##### Wofür Glauben?
 
 Es ist der letzte Dienstag im März 2024. Direkt vom Gymnasium Kirchenfeld machen wir uns auf den Weg nach Wohlen, wo wir uns mit Heinz Wulf, dem Pfarrer der Kirchgemeinde Wohlen bei Bern, treffen. Nach einer Viertelstunde hält das Postauto an der Haltestelle Wohlen b. Bern, Gemeindehaus. Schon von hier sieht man die Kirche, welche den Anblick des Dorfes schon seit dem Jahre 1678 prägt. Von der Bushaltestelle aus sind wir nur noch wenige Schritte vom Kirchgemeindehaus entfernt. Nach kurzem Warten begrüsst uns Heinz Wulf und führt uns zum Pfarrhaus, wo wir unser Gespräch beginnen.
