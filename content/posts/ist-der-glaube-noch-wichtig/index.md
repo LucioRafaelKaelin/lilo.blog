@@ -6,11 +6,13 @@ pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "reportage_bild.jpg"
 description = "Einige Religionen gibt es schon seit tausenden von Jahren, und überall auf der Welt.  Obwohl der Glaube einen grossen Einfluss auf die Geschichte hatte, scheint er für manche heute weniger Wichtigkeit zu tragen. Daher stellt sich die Frage: Wie wichtig ist der Glaube eigentlich noch?"
-footnotes = "**Literaturverzeichnis  und Quellenangabe:** \n\nInterview mit Heinz Wulf, Matthias Kuhl und Azziya Anwar\n\n*<https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/sprachen-religionen/religionen.html>*\n\n*[https://de.statista.com/statistik/daten/studie/256874/umfrage/anteil-der-anhaenger-ausgewaehlter-religionen-an-der-bevoelkerung-weltweit/](*https://de.statista.com/statistik/daten/studie/256874/umfrage/anteil-der-anhaenger-ausgewaehlter-religionen-an-der-bevoelkerung-weltweit/*)*\n\n*[https://kirchenvisite.ch/kirche/295-wohlen-bei-bern-kirche-wohlen-bei-bern](*https://kirchenvisite.ch/kirche/295-wohlen-bei-bern-kirche-wohlen-bei-bern*)*\n\n*[https://www.amnesty.ch/de/ueber-amnesty/publikationen/magazin-amnesty/2006-2/auch-der-islam-wird-missbraucht](*https://www.amnesty.ch/de/ueber-amnesty/publikationen/magazin-amnesty/2006-2/auch-der-islam-wird-missbraucht)*\n\n<https://www.dawn.com/news/1548550>"
+footnotes = "\n\n**Literaturverzeichnis  und Quellenangabe:** \n\nInterview mit Heinz Wulf, Matthias Kuhl und Azziya Anwar\n\n*https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/sprachen-religionen/religionen.html*\n\n*https://de.statista.com/statistik/daten/studie/256874/umfrage/anteil-der-anhaenger-ausgewaehlter-religionen-an-der-bevoelkerung-weltweit/*\n\n*https://kirchenvisite.ch/kirche/295-wohlen-bei-bern-kirche-wohlen-bei-bern*\n\n*https://www.amnesty.ch/de/ueber-amnesty/publikationen/magazin-amnesty/2006-2/auch-der-islam-wird-missbraucht*\n\n*https://www.dawn.com/news/1548550*"
 +++
 # **Ist der Glaube noch wichtig?**
 
 Wie der Glaube den Menschen beeinflusst, und wieso er noch wichtig ist
+
+*Text: Stefan Czupalla, Lucio Kälin*
 
 ![Abbildung 1: Kirche Wohlen bei Bern https://www.todesanzeigenportal.ch/friedhof/Wohlen/Bern/](reportage_bild-kopie.jpg)
 
